@@ -64,3 +64,4 @@ target/
 # Ignore Direnv
 .direnv
 .envrc
+db.sqlite3
